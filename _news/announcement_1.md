@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-02-18 00:00:00-0000
 inline: true
-related_posts: false
+related_posts: true
 ---
 
-A simple inline announcement.
+Our paper on **high-contrast, true 3D holographic display** is published in [Scientific Reports](https://www.nature.com/articles/s41598-022-06405-2).

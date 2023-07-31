@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-05-30 00:00:00-0000
 inline: true
-related_posts: false
+related_posts: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+One paper published to [Optics Letters](https://opg.optica.org/ol/fulltext.cfm?uri=ol-47-13-3175&id=477122) with *Editor's Pick*. 
