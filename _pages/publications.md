@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
-description: Symbol * denotes equal contribution and joint authorship.
+title: publications
+description: (* denotes equal contribution and joint authorship)
 nav: true
 nav_order: 1
 ---
