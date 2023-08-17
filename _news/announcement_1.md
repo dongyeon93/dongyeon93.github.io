@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-Our paper on **high-contrast, true 3D holographic display** is published in [Scientific Reports](https://www.nature.com/articles/s41598-022-06405-2).
+Our paper on **high-contrast, true 3D holographic display** is published to [Scientific Reports](https://www.nature.com/articles/s41598-022-06405-2).
