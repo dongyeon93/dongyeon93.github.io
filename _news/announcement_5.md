@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-I successfully defended my Ph.D dissertation (Title: **Perceptual studies on holographic near-eye displays**).
+Defended Ph.D dissertation (Title: **Perceptual studies on holographic near-eye displays**).
