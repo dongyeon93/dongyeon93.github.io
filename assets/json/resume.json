@@ -1,13 +1,20 @@
 {
   "basics": {
     "name": "Dongyeon Kim",
-    "label": "Post-doctoral Researcher",
+    "label": "Research Associate",
     "image": "",
     "email": "dongyeon.kim93@gmail.com",
     "nationality": "Republic of Korea",
     "url": "https://dongyeon93.github.io/"
   },
   "work": [
+    {
+      "name": "Seoul National University, Seoul, Republic of Korea",
+      "position": "Postdoctoral Researcher",
+      "url": "https://oeqelab.snu.ac.kr",
+      "startDate": "2022-08-30",
+      "endDate": "2023-02-16"
+    },
     {
       "name": "Meta Reality Labs, Redmond, WA, USA",
       "position": "Visiting Researcher",

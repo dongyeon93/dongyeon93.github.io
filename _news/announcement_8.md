@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-I will be working as a research associate in University of Cambridge, UK, from March 1, 2024.
+I will be working as a research associate in University of Cambridge, UK, from March.
