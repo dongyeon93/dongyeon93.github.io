@@ -1,19 +1,19 @@
-"Seung-Woo":
-  - firstname: ["Nam"]
+"Nam":
+  - firstname: ["Seung-Woo"]
     url: https://nseungwoo.github.io/
 
-"Suyeon":
-  - firstname: ["Choi"]
+"Choi":
+  - firstname: ["Suyeon"]
     url: https://choisuyeon.github.io//
 
-"Youngjin":
-  - firstname: ["Kim"]
+"Kim":
+  - firstname: ["Youngjin"]
     url: https://youngjin94.github.io/
 
-"Gordon":
-  - firstname: ["Wetzstein"]
+"Wetzstein":
+  - firstname: ["Gordon"]
     url: https://stanford.edu/~gordonwz/
 
-"Rafal":
-  - firstname: ["Mantiuk"]
+"Mantiuk":
+  - firstname: ["Rafal"]
     url: https://www.cl.cam.ac.uk/~rkm38/
