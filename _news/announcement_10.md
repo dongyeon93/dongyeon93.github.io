@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-I'm awarded Sejong Science Fellowship from [National Research Foundation of Korea](https://www.nrf.re.kr/eng/index) grant funded by the Korea government.
+I've been awarded the Sejong Science Fellowship grant funded by the [Korean government](https://www.nrf.re.kr/eng/index).
