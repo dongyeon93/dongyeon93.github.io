@@ -3,11 +3,17 @@
     "name": "Dongyeon Kim",
     "label": "Research Associate",
     "image": "",
-    "email": "dongyeon.kim93@gmail.com",
+    "email": "dongyeon [dot] kim93 [at] gmail [dot] com",
     "nationality": "Republic of Korea",
     "url": "https://dongyeon93.github.io/"
   },
   "work": [
+    {
+      "name": "University of Cambridge, Cambridge, United Kingdom",
+      "position": "Research Associate",
+      "url": "https://www.cl.cam.ac.uk/~rkm38/",
+      "startDate": "2024-03-01"
+    },
     {
       "name": "Seoul National University, Seoul, Republic of Korea",
       "position": "Postdoctoral Researcher",
