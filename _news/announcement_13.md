@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-One paper accepted to [Siggraph Asia](https://asia.siggraph.org/2024/).
+One paper accepted to [SIGGRAPH Asia](https://asia.siggraph.org/2024/).
