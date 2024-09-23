@@ -12,7 +12,8 @@
       "name": "University of Cambridge, Cambridge, United Kingdom",
       "position": "Research Associate",
       "url": "https://www.cl.cam.ac.uk/~rkm38/",
-      "startDate": "2024-03-01"
+      "startDate": "2024-03-01",
+      "summary": "Research on visual perception models and quality metrics for next-generation displays. Advised by Prof. Rafal Mantiuk."
     },
     {
       "name": "Seoul National University, Seoul, Republic of Korea",
@@ -23,7 +24,7 @@
     },
     {
       "name": "Meta Reality Labs, Redmond, WA, USA",
-      "position": "Visiting Researcher",
+      "position": "Research Scientist Intern",
       "url": "https://about.meta.com/realitylabs/",
       "startDate": "2022-08-15",
       "endDate": "2023-01-27",
