@@ -5,5 +5,5 @@ title: CV
 nav: true
 nav_order: 4
 cv_pdf: short_CV.pdf
-description: Last update (September 23, 2024)
+description: Last update (November 10, 2024)
 ---
