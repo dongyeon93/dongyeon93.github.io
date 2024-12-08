@@ -195,6 +195,13 @@
             <a href="{{ entry.award | prepend: '/assets/video/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Award</a>
             {%- endif %}
           {%- endif %}
+          {%- if entry.etech %}
+          {% if entry.etech contains '://' -%}
+          <a href="{{ entry.etech }}" class="btn btn-sm z-depth-0" role="button">Etech</a>
+          {%- else -%}
+          <a href="{{ entry.etech | prepend: '/assets/video/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Etech</a>
+          {%- endif %}
+        {%- endif %}
           </div>
           {% if site.badges %}
           <div class="badges">
