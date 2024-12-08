@@ -188,6 +188,13 @@
           {%- if entry.video %}
             <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
           {%- endif %}
+          {%- if entry.award %}
+            {% if entry.award contains '://' -%}
+            <a href="{{ entry.award }}" class="btn btn-sm z-depth-0" role="button">Award</a>
+            {%- else -%}
+            <a href="{{ entry.award | prepend: '/assets/video/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Award</a>
+            {%- endif %}
+          {%- endif %}
           </div>
           {% if site.badges %}
           <div class="badges">
