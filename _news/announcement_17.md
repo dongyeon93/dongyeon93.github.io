@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2025-08-16 00:00:00-0000
+inline: true
+related_posts: true
+---
+
+One paper accepted to [SIGGRAPH Asia](https://asia.siggraph.org/2025/).
