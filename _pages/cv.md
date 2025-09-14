@@ -4,6 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: DYKIM_CV_250914.pdf
+cv_pdf: DYKIM_CV.pdf
 description: Last update (September 14, 2025)
 ---
